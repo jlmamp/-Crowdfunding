@@ -159,19 +159,6 @@ Use your data to determine whether the mean or the median summarizes the data mo
 
 Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 -------------------------
-Employer-Ready Criteria
-Students who are marked as employer ready gain access to our employer referral program, additional workshops, and other resources. Work with your Career Director to become employer ready. At a minimum, you must have:
-
-A clear, concise, and compelling resume. Submit via your learning platform for review.
-A polished GitHub profile:
-
-3 to 6 pinned repositories (instructions here)
-Thorough README.md files for each repository
-Clean code
-
-
-
-
 References
 Dataset created by Trilogy Education Services, LLC.
 
